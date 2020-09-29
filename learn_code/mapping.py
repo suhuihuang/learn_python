@@ -14,7 +14,7 @@ p = turtle
 p.pensize(3)
 
 drawCircle(0, 0, "blue")
-drawCircle(60, 0, "black")
+drawCircle(60, 0, "blapick")
 drawCircle(120, 0, "red")
 drawCircle(90, -30, "green")
 drawCircle(30, -30, "yellow")
