@@ -1,5 +1,6 @@
 import turtle as p
 import  random
+
 # 绘制雪花
 def snow(snow_count):
     p.hideturtle()
